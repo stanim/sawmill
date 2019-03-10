@@ -20,5 +20,12 @@ template = "media-feature"
 [[blocks]]
 content = "Body text"
 template = "body-copy"
+[[blocks]]
+button_text = "Button"
+button_url = "stani.be"
+content = "Content"
+heading = "Heading Call to taction"
+subheading = "Subheading"
+template = "call-to-action"
 
 +++
