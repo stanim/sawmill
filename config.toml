@@ -1,3 +1,14 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://sawmill.stani.be"
+languageCode = "nl-nl"
+theme = "sawmill"
+title = "New Hugo Site"
+
+[Author]
+    name = "DJ Walker"
+[Params]
+    logo = "logo.svg"
+[Params.BrandColor]
+    normal = "#343477"
+    light = "#565695"
+    dark = "#1A1A59"
+    shadow = "#09093B"
