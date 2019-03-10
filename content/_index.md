@@ -1,5 +1,5 @@
 +++
-title = "New Hugo Site"
+title = "Home page"
 type = "page"
 [[blocks]]
 background_image = "/uploads/b15-installation-architecture-students-jean-verville-kroy-canada_dezeen_2364_col_2.jpg"
