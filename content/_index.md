@@ -17,5 +17,8 @@ image_position = "Left"
 image_shadow = true
 subheading = "Subheading"
 template = "media-feature"
+[[blocks]]
+content = "Body text"
+template = "body-copy"
 
 +++
